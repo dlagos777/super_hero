@@ -1,0 +1,21 @@
+/* Ajustes General */
+html{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    scroll-padding-top: 100px;
+}
+
+/* Estilos para el body */
+body{
+    background: rgb(179,27,27);
+    background: linear-gradient(0deg, rgba(179,27,27,1) 0%, rgba(0,0,0,1) 100%);
+    background-repeat: no-repeat;
+}
+
+html, 
+body, 
+#background { 
+    min-height: 100vh;
+}
